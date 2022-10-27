@@ -1,4 +1,4 @@
-![](/zs2.0-header.png)
+![](/branding/zs2.0-header.png)
 
 **ZeldaSource** is a freelance-created website created by Gabe Fletcher, powered by [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com).
 The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
