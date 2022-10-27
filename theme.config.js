@@ -61,7 +61,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
   footerText: <>ZeldaSource {new Date().getFullYear()} © A Project by Gabe Fletcher.</>,
   unstable_faviconGlyph: '⚔️',
 }
