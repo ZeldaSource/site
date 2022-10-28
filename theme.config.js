@@ -57,6 +57,9 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerText: <>ZeldaSource. A Project by [Gabe Fletcher](https://bit.ly/gabefletch) </>,
+  footerText: <>ZeldaSource - 
+  let text = "A Project by Gabe Fletcher";
+  let result = text.link("https://bit.ly/gabefletch");
+</>,
   unstable_faviconGlyph: '⚔️',
 }
