@@ -1,13 +1,10 @@
 export default {
   github: 'https://github.com/shuding/nextra',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: '-ZeldaSource',
+  titleSuffix: ' - ZeldaSource',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">ZeldaSource</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-        archiving every zelda release, ever.
-      </span>
+      img src="https://user-images.githubusercontent.com/116841381/198591245-0c150079-577a-4608-82e3-1aee3258b5d8.png"
     </>
   ),
   head: (
