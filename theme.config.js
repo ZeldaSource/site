@@ -59,5 +59,5 @@ export default {
   footer: true,
   footerText: <img src="https://user-images.githubusercontent.com/116841381/198591245-0c150079-577a-4608-82e3-1aee3258b5d8.png" width="45"/>
 ,
-  unstable_faviconGlyph: '⚔️',
+  unstable_faviconGlyph: <img src="https://user-images.githubusercontent.com/116841381/198622870-799df0e1-8f37-4172-a83a-db779b00038b.png" />
 }
