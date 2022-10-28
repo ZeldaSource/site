@@ -3,7 +3,7 @@ export default {
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' - ZeldaSource',
   logo: (
-      <img src="https://user-images.githubusercontent.com/116841381/198609219-a078cc84-abc2-42ff-bd94-f860e06067e1.png" width="100"/>
+      <img src="https://user-images.githubusercontent.com/116841381/198611431-d49484f7-85ca-401b-9a4f-a3dac4c02317.png" width="150"/>
 ,
   ),
   head: (
