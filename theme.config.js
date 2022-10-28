@@ -57,6 +57,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerText: <>ZeldaSource {new Date().getFullYear()} © A Project by Gabe Fletcher.</>,
+  footerText: <>ZeldaSource. A Project by [Gabe Fletcher](https://bit.ly/gabefletch) </>,
   unstable_faviconGlyph: '⚔️',
 }
